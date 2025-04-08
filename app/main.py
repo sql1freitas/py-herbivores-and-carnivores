@@ -44,3 +44,4 @@ class Carnivore(Animal):
             other.health = 0
 
         other._check_alive()
+
